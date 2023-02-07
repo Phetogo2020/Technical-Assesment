@@ -1,0 +1,17 @@
+﻿@model simpleApp.Models.CustomerViewModel
+
+
+
+<h3 class="text-muted">@Model.Name @Model.Surname</h3>
+
+<div class="col-11">
+   <div class="row">
+    <label class="">Phone number: @Model.Phone </label>
+    </div>
+    <div class="row">
+        <label class="">Postal Address: @Model.Address1 @Model.Address2 @Model.Address3 @Model.Address4 </label>
+    </div>
+    <div class="row">
+        <label class="">Physical Address: @Model.PAddress1 @Model.PAddress2 @Model.PAddress3 @Model.PAddress4 </label>
+    </div>
+</div>

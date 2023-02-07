@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\simpleApp",
+    "\\SimpleApp.Service",
+    "\\SimpleApp.Service\\SimpleApp.Service",
+    "\\SimpleApp.Service\\SimpleApp.Service\\Controllers"
+  ],
+  "SelectedNode": "\\SimpleApp.Service\\SimpleApp.Service\\Controllers\\CustomerController.cs",
+  "PreviewInSolutionExplorer": false
+}
